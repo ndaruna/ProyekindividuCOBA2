@@ -1,0 +1,171 @@
+﻿body {
+  margin: 0;
+  font-family: "Segoe UI Semibold";
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #00cec9;
+  height: 35px;
+  font-size: 14px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-left a:hover {
+  background-color: rgba(75, 101, 132,1.0);
+}
+
+
+.header-left a {
+  transition: all 0.4s;
+  float: left;
+  line-height: 35px;
+  padding: 0px 15px;
+  color: white;
+  display: block;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.logo {
+  width: 150px;
+  margin: 5.5px 0px;
+  float: left;
+}
+
+.first {
+  height: 140px;
+}
+
+.happy {
+  padding-top: 5px;
+  font-size: 60px;
+}
+
+.firstdetail li {
+  font-family: "Racy Mango";
+}
+
+.firstdetail {
+  float: left;
+}
+
+.dot {
+  color: #00b894;
+}
+
+.firstdetail2 {
+  float: right;
+}
+
+.firstdetail2 {
+  padding-top: 27px;
+}
+
+.firstdetail2 li {
+  font-family: "Segoe UI Semibold";
+}
+
+.li1 {
+  font-size: 23px;
+  padding-bottom: 5px;
+}
+
+.li2 {
+  float: right;
+  font-size: 12px;
+}
+
+.btn {
+  color: black;
+  display: inline-block;
+  border-radius: 4px;
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: rgba(75, 101, 132,1.0);
+}
+
+.contact {
+  background-color: #00cec9;
+  color: white;
+  padding: 1px 5px;
+  cursor: pointer;
+}
+
+.phone {
+  cursor: pointer;
+}
+
+.second img {
+  width: 1349px;
+}
+
+.third {
+  height: 180px;
+  background-color: rgba(1, 163, 164,0.8);
+  padding: 30px 0px;
+  color: white;
+}
+
+.inspiration {
+  border-bottom: 1px solid;
+  padding-bottom: 7px;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.thirddetail {
+  float: left
+}
+
+.thirddetail2 {
+  float: left
+}
+
+.thirddetail3 {
+  float: left
+}
+
+input {
+  width: 270px;
+  margin-top: 10px;
+  margin-right: 20px;
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid rgba(116, 185, 255,1.0);
+  border-radius: 5px;
+}
+
+.search {
+  margin-top: 64px;
+  margin-left: 10px;
+  width: 150px;
+  background-color: rgba(75, 101, 132,1.0);
+  color: white;
+  transition: all 0.4s;
+}
+
+.search:hover {
+  background-color: rgba(52, 31, 151,1.0);
+  
+}
